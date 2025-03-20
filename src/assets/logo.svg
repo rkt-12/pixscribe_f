@@ -1,0 +1,14 @@
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon Background -->
+  <rect x="10" y="25" width="50" height="50" rx="10" fill="#1E88E5"/>
+  
+  <!-- Icon Design -->
+  <circle cx="35" cy="50" r="12" fill="white"/>
+  <circle cx="35" cy="50" r="5" fill="#1E88E5"/>
+  <circle cx="45" cy="38" r="2" fill="white"/>
+
+  <!-- Brand Text -->
+  <text x="70" y="60" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="black">
+    Pixscribe
+  </text>
+</svg>
